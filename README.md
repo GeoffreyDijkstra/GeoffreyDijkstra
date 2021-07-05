@@ -1,5 +1,10 @@
-### Hi there 👋
-
+                 (__) 
+                 (oo) 
+           /------\/ 
+          / |    ||   
+         *  /\---/\ 
+            ~~   ~~   
+..."Have you mooed today?"...
 <!--
 **GeoffreyDijkstra/GeoffreyDijkstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
